@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CM-Store/static/css/main.c8262401.css",
+    "main.js": "/CM-Store/static/js/main.369d3337.js",
+    "index.html": "/CM-Store/index.html",
+    "main.c8262401.css.map": "/CM-Store/static/css/main.c8262401.css.map",
+    "main.369d3337.js.map": "/CM-Store/static/js/main.369d3337.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8262401.css",
+    "static/js/main.369d3337.js"
+  ]
+}
